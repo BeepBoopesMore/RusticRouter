@@ -1,10 +1,11 @@
 # RusticRouter
-Just my frame-work imported for Rust UI for now still heavily working on it
+Just my frame-work imported for Rust UI for now still heavily working on it so people don't complain about no low level programming
 
 
 
-
-
+# Things i want done 
+- Making my raw arp packet sender for scanning
+-Ui
 
 #Code sample 
 
